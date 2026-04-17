@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1670701463-malinee\\bu-2025-sem2-gi244-week13-1670701463\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E5DB20E-2CE7-4ACD-A537-409A0AF685F8}|Assembly-CSharp.csproj|d:\\1670701463-malinee\\bu-2025-sem2-gi244-week13-1670701463\\assets\\scripts\\anotherobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E5DB20E-2CE7-4ACD-A537-409A0AF685F8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\anotherobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E5DB20E-2CE7-4ACD-A537-409A0AF685F8}|Assembly-CSharp.csproj|D:\\1670701463-malinee\\bu-2025-sem2-gi244-week13-1670701463\\assets\\scripts\\persistentobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E5DB20E-2CE7-4ACD-A537-409A0AF685F8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\persistentobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E5DB20E-2CE7-4ACD-A537-409A0AF685F8}|Assembly-CSharp.csproj|d:\\1670701463-malinee\\bu-2025-sem2-gi244-week13-1670701463\\assets\\scripts\\gamesetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E5DB20E-2CE7-4ACD-A537-409A0AF685F8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamesetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameSetting.cs",
+              "DocumentMoniker": "D:\\1670701463-malinee\\bu-2025-sem2-gi244-week13-1670701463\\Assets\\Scripts\\GameSetting.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameSetting.cs",
+              "ToolTip": "D:\\1670701463-malinee\\bu-2025-sem2-gi244-week13-1670701463\\Assets\\Scripts\\GameSetting.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameSetting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T08:16:46.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnotherObject.cs",
+              "DocumentMoniker": "D:\\1670701463-malinee\\bu-2025-sem2-gi244-week13-1670701463\\Assets\\Scripts\\AnotherObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AnotherObject.cs",
+              "ToolTip": "D:\\1670701463-malinee\\bu-2025-sem2-gi244-week13-1670701463\\Assets\\Scripts\\AnotherObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AnotherObject.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T08:02:03.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersistentObject.cs",
+              "DocumentMoniker": "D:\\1670701463-malinee\\bu-2025-sem2-gi244-week13-1670701463\\Assets\\Scripts\\PersistentObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PersistentObject.cs",
+              "ToolTip": "D:\\1670701463-malinee\\bu-2025-sem2-gi244-week13-1670701463\\Assets\\Scripts\\PersistentObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PersistentObject.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T07:54:26.714Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

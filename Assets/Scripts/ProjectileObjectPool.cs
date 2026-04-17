@@ -15,12 +15,17 @@ public class ProjectileObjectPool : MonoBehaviour
 
     private void Start()
     {
-
+        for (int i = 0; i < initialPoolSize; i++)
+        {
+            CreateNewProjectile();
+        }
     }
 
     private void CreateNewProjectile()
     {
-
+        var go = Instantiate(projectilePrefab);
+        go.SetActive(false);
+        projectilePool.Add(go);
     }
 
     public GameObject Acquire()
